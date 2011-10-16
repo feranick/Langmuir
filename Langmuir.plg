@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Langmuir - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Release/Langmuir.res" /d "NDEBUG" /d "_AFXDLL" "C:\Documents and Settings\Nicola Ferralis\My Documents\CPPPrograms\Langmuir\Langmuir.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/Langmuir.pdb" /machine:I386 /out:"Release/Langmuir.exe"  ".\Release\Langmuir.obj" ".\Release\LangmuirDlg.obj" ".\Release\StdAfx.obj" ".\Release\Langmuir.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Langmuir.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
